@@ -1,10 +1,10 @@
 {
-  "name": "scalingo",
+  "name": "nodejs-argo",
   "version": "8.8.8",
   "description": "Thsi is a node project",
   "main": "index.js",
-  "author": "azhzlhw",
-  "repository": "https://github.com/azhzlhw/scalingo",
+  "author": "eooce",
+  "repository": "https://github.com/eooce/nodejs-argo",
   "license": "MIT",
   "private": false,
   "scripts": {
